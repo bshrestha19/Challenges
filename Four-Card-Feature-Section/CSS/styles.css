@@ -1,0 +1,151 @@
+body {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  background-color: hsl(0, 0%, 98%);
+  line-height: 2;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+p {
+  width: 35%;
+  margin: 0 auto 0;
+  font-weight: 100;
+  color:  hsl(210, 7%, 73%);
+}
+
+.Powered-by {
+  margin-top: 0;
+}
+
+.Top-Container {
+  background-color: hsl(0, 0%, 98%);
+}
+
+.Four-Card-Container {
+  background-color: hsl(0, 0%, 98%);
+}
+
+.Top-Container-Description {
+  font-weight: 200;
+  color: grey;
+  margin-bottom: 4rem;
+}
+
+.Top-Line {
+  font-weight: 100;
+  color:  hsl(210, 7%, 73%);
+  margin-bottom: 0;
+}
+
+.Top-Card {
+  /* position: absolute; */
+  text-align: left;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-style: outset 0 0 0;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px grey;
+  border-color: hsl(0, 78%, 62%);
+  margin:1.5rem auto 1.5rem;
+  border-width: 0.25rem;
+  font-weight: 400;
+  width: 25%;
+}
+
+.Bottom-Card {
+  text-align: left;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-style: outset hidden hidden hidden;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px grey;
+  border-color: hsl(0, 78%, 62%);
+  margin:1.5rem auto 1.5rem;
+  border-width: 0.25rem;
+  font-weight: 400;
+  width: 25%;
+}
+
+.Left-Card {
+  text-align: left;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-style: outset hidden hidden hidden;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px grey;
+  border-color: hsl(180, 62%, 55%);
+  margin:1.5rem auto 1.5rem;
+  border-width: 0.25rem;
+  font-weight: 400;
+  width: 25%;
+  float:left;
+  position: relative;
+  bottom: 25rem;
+  left: 6rem;
+}
+
+.Right-Card {
+  text-align: left;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-style: outset hidden hidden hidden;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px grey;
+  border-color: hsl(212, 86%, 64%);
+  margin:1.5rem auto 1.5rem;
+  border-width: 0.25rem;
+  font-weight: 400;
+  width: 25%;
+  float: right;
+  position: relative;
+  bottom: 25rem;
+  right: 6rem;
+} 
+
+.four-card-description {
+  font-weight: 600;
+}
+
+.team-builder-description {
+  font-size: 1rem;
+  /* font-weight: 200; */
+  width: 100%;
+}
+
+.karma-description {
+  font-size: 1rem;
+  /* font-weight: 200; */
+  width: 100%;
+}
+
+.supervisor-description {
+  font-size: 1rem;
+  /* font-weight: 200; */
+  width: 100%;
+}
+
+.calculator-description {
+  font-size: 1rem;
+  /* font-weight: 200; */
+  width: 100%;
+}
+
+
+.team-builder-image {
+  padding: 1rem 1rem 1rem 15rem;
+}
+
+.karma-image {
+  padding: 1rem 1rem 1rem 15rem;
+}
+
+.supervisor-image {
+  padding: 1rem 1rem 1rem 15rem;
+}
+
+.calculator-image {
+  padding: 1rem 1rem 1rem 15rem;
+}
